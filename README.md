@@ -184,3 +184,45 @@ After almost a year and a half after the first release, Newtrodit 0.6 rc-1 is ou
 <!--
   -- END OF DISCORDTOKA
   -->
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+<!--
+  -- START OF HEXDUMP
+  -->
+
+<div align="center">
+  <br /><br />
+  <img src="./res/hexdump.png" alt="Banner" />
+  <br /><br />
+</div>
+
+----
+
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block;">Hexdump</h1></summary>
+  </ul>
+
+  <p>
+    <i>the <b>alternative</b></i> cross platfrom hex dumping utility
+    <br />
+    <a href="https://github.com/KeithBrown39423/Hexdump/issues"><b>Report Bug</b></a>
+    ·
+    <a href="https://github.com/KeithBrown39423/Hexdump/issues"><b>Request Feature</b></a>
+  </p>
+</div>
+
+<p align="center">
+  <a href="#features">Features</a> ·
+  <a href="#setup">Setup</a> ·
+  <a href="#credits">Credits</a>
+</p>
+
+<br />
+
+----
+
+<!--
+  -- END OF HEXDUMP
+  -->
